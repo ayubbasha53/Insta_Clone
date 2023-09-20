@@ -1,0 +1,23 @@
+{
+    "name":"Ayub Basha",
+    "email":"ayubbasha53@gmail.com",
+    "password":"Ayub12345"
+}
+
+{
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NGVmMzg5ZDFhNTcyMTg2YmQxYjMyMzAiLCJpYXQiOjE2OTM0MDAzMTZ9.0T94AUi1zWuvxI3PFZ63yvtrLcbDla2eTy--SH5a7L4"
+}
+{
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NGVmMzg5ZDFhNTcyMTg2YmQxYjMyMzAiLCJpYXQiOjE2OTM0MDA2MjV9.DlinAx3weo_Icm3nFhk3qYqZAVLruwCbW2DdljaI6Q0"
+}
+{
+    "name":"Abdul Rahman",
+    "email":"yesrahman@gmail.com",
+    "password":"Rahman12345"
+}
+{
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NGYwMDQ0ODkzODkxOTlkOTgzZTBkMzMiLCJpYXQiOjE2OTM0NTE1Nzh9.GmwPqk74z1IeLxiRc7ax6HMYqt03GzIxqKkeqcfm5_c"
+}
+{
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NGYwMDQ0ODkzODkxOTlkOTgzZTBkMzMiLCJpYXQiOjE2OTM0NTI0NTl9.juWVHWOTI36Sv0Goby4I-FCve3J1pCHzQ-Z2nWgyUBo"
+}
